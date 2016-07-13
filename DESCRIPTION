@@ -1,0 +1,13 @@
+Package: gerard
+Type: Package
+Title: Some useful functions
+Version: 0.1.0
+Authors@R: person("David", "Gerard", email = "dcgerard@uchicago.edu", role = c("aut", "cre"))
+Description: A random assortment of functions that I have found useful.
+License: GPL-3
+LazyData: TRUE
+Imports:
+    assertthat
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
